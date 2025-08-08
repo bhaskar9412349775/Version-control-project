@@ -13,8 +13,8 @@ Tasks done in this repo:
 - Tagged a release
 
 ## How to Check My Work
-1. Clone the repository:https://github.com/bhaskar9412349775/Version-control-project.git
-   ```bash
+1. Clone the repository:
+   ```bash https://github.com/bhaskar9412349775/Version-control-project.git 
   - git clone https://github.com/bhaskar9412349775/Version-control-project.git
   - cd Version-control-project
   - git branch -a ## To see all branch
